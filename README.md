@@ -1,3 +1,3 @@
-# enough-handson-rxjs-part-4
+# enough-handson-rxjs-part-5
 
-> Part 4 : Map, Pluck and Filter
+> Part 5 : Managing multiple streams and avoid un-subscribing workshop
